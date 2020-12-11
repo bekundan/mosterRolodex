@@ -15,4 +15,7 @@
 
 .card-container:hover{
     transform: scale(1.05);
+    filter: brightness(75%);
+    background-color: #000000;
+    color: #ffffff;
 }
